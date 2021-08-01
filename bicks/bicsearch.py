@@ -8,7 +8,7 @@ import numpy as np
 import time
 
 class FindBICs:
-    """find BICs in q-k0 space with single polarization.
+    """find BICs in q-k0 space with single polarization.?
     
     Attributes
     ----------
